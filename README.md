@@ -18,6 +18,6 @@
   <a href = "https://store.steampowered.com/curator/39665189"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">   </a>
   <a href="https://www.linkedin.com/in/lucas-alberto-0b6591168" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LucassAlbert/LucassAlbert/blob/output/github-contribution-grid-snake.svg)
  
 </div>
